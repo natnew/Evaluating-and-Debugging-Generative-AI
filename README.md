@@ -29,7 +29,6 @@ Generative AI has made significant advancements in various fields, including nat
 
 ## Setup
 
-- Install the requirements from `requirements.txt`
 
 
 ## License
